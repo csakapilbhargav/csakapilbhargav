@@ -1,4 +1,6 @@
-
+# 💫 About Me:
+- 👋 Namaste! I’m kapil.<br>- 💻 Skilled in Web Development (MERN-stack).<br>- 📊 Learning AI & Data Science .<br>- 🌱 Exploring opportunities in Web dev & Data Science.
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kapil_bhargav62) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-bhargav-563642377) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csakapilbhargav22@gmail.com) 
 
